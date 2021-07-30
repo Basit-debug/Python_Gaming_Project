@@ -1,0 +1,8 @@
+#Python virtual env
+venv
+
+#IntelliJ project files
+.idea/
+
+# Local test files
+test*
